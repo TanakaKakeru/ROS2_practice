@@ -1,0 +1,22 @@
+[0.412s] Invoking command in '/home/tanaka/ros2_ws/src/mypkg': PYTHONPATH=/home/tanaka/ros2_ws/src/mypkg/build/mypkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/mypkg build --build-base /home/tanaka/ros2_ws/src/mypkg/build/mypkg/build install --record /home/tanaka/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed install_data
+[0.544s] running egg_info
+[0.544s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[0.544s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.545s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[0.545s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[0.545s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[0.569s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.569s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.570s] running build
+[0.570s] running build_py
+[0.570s] running install
+[0.571s] running install_lib
+[0.572s] running install_data
+[0.572s] running install_egg_info
+[0.573s] removing '/home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info' (and everything under it)
+[0.574s] Copying build/mypkg/mypkg.egg-info to /home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.575s] running install_scripts
+[0.588s] Installing listener script to /home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[0.588s] Installing talker script to /home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/mypkg
+[0.588s] writing list of installed files to '/home/tanaka/ros2_ws/src/mypkg/build/mypkg/install.log'
+[0.609s] Invoked command in '/home/tanaka/ros2_ws/src/mypkg' returned '0': PYTHONPATH=/home/tanaka/ros2_ws/src/mypkg/build/mypkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/tanaka/ros2_ws/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/mypkg build --build-base /home/tanaka/ros2_ws/src/mypkg/build/mypkg/build install --record /home/tanaka/ros2_ws/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed install_data
